@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Practicas-Prog/Conversacion/Inicio_GREENLAKE.unity
+    guid: d5f126a9f7dc4324fb406b14d4352a76
+  - enabled: 1
+    path: Assets/Scenes/Practicas-Prog/Conversacion/Conversacion.unity
+    guid: 37baabd701544264695e11492c2b88f4
+  - enabled: 1
+    path: Assets/Scenes/Practicas-Prog/Conversacion/Tooth_Salvada.unity
+    guid: a9e8a7278b3326440ae88e68b961ef28
+  - enabled: 1
+    path: Assets/Scenes/Practicas-Prog/Conversacion/Mientras.unity
+    guid: 6fb16a3df8bec154b8cae4208947bcd2
+  - enabled: 1
+    path: Assets/Scenes/Practicas-Prog/Conversacion/Aparicion_Jessica.unity
+    guid: f50a369bf6968314785c61f1e849db69
+  - enabled: 1
+    path: Assets/Scenes/Practicas-Prog/Conversacion/Conversacion_PostJ.unity
+    guid: 065caa1d522723e4eab3e86f733457ac
+  - enabled: 1
+    path: Assets/Scenes/Practicas-Prog/Conversacion/Busqueda_JB.unity
+    guid: 024dea250e7c4884ab28a02d95970536
+  - enabled: 1
+    path: Assets/Scenes/Practicas-Prog/Conversacion/Busqueda_J.unity
+    guid: 4bdc9d8af323e7e44ba62de2d03d1e6d
+  - enabled: 1
+    path: Assets/Scenes/Practicas-Prog/Conversacion/Conversacion_FN.unity
+    guid: 2b1598e7cf6ddb84285fdb0544903b16
+  - enabled: 1
+    path: Assets/Scenes/Practicas-Prog/Conversacion/Historia_PE.unity
+    guid: bd66ea2348a535949b279e1752a71e6c
+  m_configObjects: {}
